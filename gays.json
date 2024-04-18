@@ -1,1 +1,8 @@
-[{"id":0,"nombre":"Andres","gay_level":1},{"id":1,"nombre":"Reginaldo","gay_level":0},{"id":2,"nombre":"guillermo","gay_level":0},{"id":3,"nombre":"Jose","gay_level":"5"},{"id":4,"nombre":"Pepe","gay_level":"3"}]
+[
+  { "id": 0, "nombre": "Andres", "gay_level": 1 },
+  { "id": 1, "nombre": "Reginaldo", "gay_level": 0 },
+  { "id": 2, "nombre": "guillermo", "gay_level": 0 },
+  { "id": 3, "nombre": "Jose", "gay_level": "5" },
+  { "id": 4, "nombre": "Pepe", "gay_level": "3" },
+  { "id": 5, "nombre": "Joe", "gay_level": "0" }
+]
